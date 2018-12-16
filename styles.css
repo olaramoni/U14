@@ -1,0 +1,26 @@
+<style>
+@import url("https://fonts.googleapis.com/css?family='Asap':400,500,700")
+</style>
+
+
+body{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body > h1{
+    padding: 10px;
+    text-align: center;
+    font-family: "Asap", sans-serif;
+}
+
+body > p{
+    padding: 10px;
+    text-align: center;
+    font-family: "Asap", sans-serif;
+}
+
+body > div{
+    text-align: center;
+}
